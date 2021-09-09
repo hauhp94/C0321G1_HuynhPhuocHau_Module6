@@ -19,8 +19,8 @@ function statisticByComputer() {
             datasets: [{
                 label: 'hour',
                 data: [12, 19, 3, 5, 2, 3],
-                backgroundColor: ['#FFF447'],
-                borderColor: ['#FFF447'],
+                backgroundColor: ['#FFF448'],
+                borderColor: ['#FFF448'],
                 borderWidth: 1
             }]
         },
