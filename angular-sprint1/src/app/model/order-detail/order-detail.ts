@@ -1,5 +1,5 @@
 import {Orders} from "./orders";
-import {Service} from "../service/service";
+import {Services} from "../service/services";
 import {Unit} from '../service/unit';
 
 export interface OrderDetail {
@@ -8,6 +8,6 @@ export interface OrderDetail {
   quantity: number;
   prices: number;
   totalPrices: number;
-  service: Service;
+  service: Services;
   unit: Unit;
 }

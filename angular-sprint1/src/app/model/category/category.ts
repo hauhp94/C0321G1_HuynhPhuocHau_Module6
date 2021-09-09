@@ -1,4 +1,3 @@
-import {CategoryPrice} from './category-price';
 
 export interface Category {
   categoryId: number;
@@ -7,5 +6,5 @@ export interface Category {
   fee: string;
   discount: string;
   description: string;
-  categoryPrice: CategoryPrice;
+  type: string;
 }

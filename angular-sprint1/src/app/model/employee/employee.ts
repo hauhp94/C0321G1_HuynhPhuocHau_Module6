@@ -2,16 +2,16 @@ import {Address} from '../address/address';
 
 export interface Employee {
   employeeId: number;
-  employeeCode: string;
-  employeeFullname: string;
-  employeePosition: Position;
-  employeeEmail: string;
-  employeeDateOfBirth: string;
-  employeeStartWorkDate: string;
-  employeeAddress: Address;
-  employeePhoneNumber: string;
-  employeeAccount: Account;
-  employeeLevel: number;
-  employeeYearOfExp: number;
-  employeeFlagDel: number;
+  code: string;
+  fullName: string;
+  position: Position;
+  email: string;
+  dateOfBirth: string;
+  startWorkDate: string;
+  address: Address;
+  phone: string;
+  account: Account;
+  level: number;
+  yearOfExp: number;
+  flagDel: number;
 }

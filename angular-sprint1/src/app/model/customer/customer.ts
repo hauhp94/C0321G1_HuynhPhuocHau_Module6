@@ -3,7 +3,7 @@ import {CustomerStatus} from "./customer-status";
 
 export interface Customer {
   customerId: number;
-  customerCode: string;
+  code: string;
   account: Account;
   fullName: string;
   email: string;

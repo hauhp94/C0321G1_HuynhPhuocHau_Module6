@@ -1,6 +1,6 @@
 import {Unit} from './unit';
 
-export interface Service {
+export interface Services {
   serviceId: number;
   serviceCode: string;
   serviceName: string;
