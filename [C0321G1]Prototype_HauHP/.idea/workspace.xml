@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e4838b57-046e-4e4a-8b60-2dc42425a3b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../[C0321G1]Prototype_HauHPsp1/.idea/prototype-statistic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final-test-sprint1/final-test-sprint1-back-end/src/main/java/com/controller/CategoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final-test-sprint1/final-test-sprint1-back-end/src/main/java/com/controller/ObjectController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final-test-sprint1/final-test-sprint1-back-end/src/main/java/com/controller/StatisticController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final-test-sprint1/final-test-sprint1-back-end/src/main/java/com/controller/TicketMonthRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final-test-sprint1/final-test-sprint1-back-end/src/main/java/com/dto/Statistic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final-test-sprint1/final-test-sprint1-back-end/src/main/java/com/model/repository/StatisticRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final-test-sprint1/final-test-sprint1-front-end/final-test-sprint/src/app/layout/footer/footer.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final-test-sprint1/final-test-sprint1-front-end/final-test-sprint/src/app/layout/footer/footer.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final-test-sprint1/final-test-sprint1-front-end/final-test-sprint/src/app/layout/footer/footer.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final-test-sprint1/final-test-sprint1-front-end/final-test-sprint/src/app/layout/footer/footer.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final-test-sprint1/final-test-sprint1-front-end/final-test-sprint/src/app/layout/header/header.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final-test-sprint1/final-test-sprint1-front-end/final-test-sprint/src/app/layout/header/header.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final-test-sprint1/final-test-sprint1-front-end/final-test-sprint/src/app/layout/header/header.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final-test-sprint1/final-test-sprint1-front-end/final-test-sprint/src/app/layout/header/header.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final-test-sprint1/final-test-sprint1-front-end/final-test-sprint/src/app/layout/home/home.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final-test-sprint1/final-test-sprint1-front-end/final-test-sprint/src/app/layout/home/home.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final-test-sprint1/final-test-sprint1-front-end/final-test-sprint/src/app/layout/home/home.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final-test-sprint1/final-test-sprint1-front-end/final-test-sprint/src/app/layout/home/home.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final-test-sprint1/final-test-sprint1-front-end/final-test-sprint/src/assets/image/furama.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final-test-sprint1/final-test-sprint1-front-end/final-test-sprint/src/assets/image/furama2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final-test-sprint1/final-test-sprint1-front-end/final-test-sprint/src/assets/image/furama3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final-test-sprint1/final-test-sprint1-front-end/final-test-sprint/src/assets/image/furama4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final-test-sprint1/final-test-sprint1-front-end/final-test-sprint/src/assets/image/furama5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final-test-sprint1/final-test-sprint1-front-end/final-test-sprint/src/assets/image/furama6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final-test-sprint1/final-test-sprint1-front-end/final-test-sprint/src/assets/image/hn1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final-test-sprint1/final-test-sprint1-front-end/final-test-sprint/src/assets/image/rainbows13.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/prototype-statistic.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap4/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap4/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap4/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap4/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap4/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap4/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap4/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap4/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap4/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap4/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap4/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap4/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap4/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap4/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap4/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap4/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap4/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap4/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap4/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap4/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart 3.5.1/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart 3.5.1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart 3.5.1/auto/auto.esm.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart 3.5.1/auto/auto.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart 3.5.1/auto/auto.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart 3.5.1/auto/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart 3.5.1/dist/chart.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart 3.5.1/dist/chart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart 3.5.1/dist/chart.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart 3.5.1/dist/chunks/helpers.segment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart 3.5.1/dist/helpers.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart 3.5.1/helpers/helpers.esm.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart 3.5.1/helpers/helpers.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart 3.5.1/helpers/helpers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart 3.5.1/helpers/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart 3.5.1/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart 3.5.1/types/adapters.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart 3.5.1/types/animation.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart 3.5.1/types/basic.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart 3.5.1/types/color.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart 3.5.1/types/element.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart 3.5.1/types/geometric.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart 3.5.1/types/helpers/helpers.canvas.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart 3.5.1/types/helpers/helpers.collection.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart 3.5.1/types/helpers/helpers.color.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart 3.5.1/types/helpers/helpers.core.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart 3.5.1/types/helpers/helpers.curve.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart 3.5.1/types/helpers/helpers.dom.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart 3.5.1/types/helpers/helpers.easing.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart 3.5.1/types/helpers/helpers.extras.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart 3.5.1/types/helpers/helpers.interpolation.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart 3.5.1/types/helpers/helpers.intl.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart 3.5.1/types/helpers/helpers.math.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart 3.5.1/types/helpers/helpers.options.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart 3.5.1/types/helpers/helpers.rtl.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart 3.5.1/types/helpers/helpers.segment.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart 3.5.1/types/helpers/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart 3.5.1/types/index.esm.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart 3.5.1/types/layout.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chart 3.5.1/types/utils.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/hinh-nen-da-dang-nhap.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/logo-c03.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/logo-cat-ngang.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/jquery-3.5.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stastistic.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/statistic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[C0321G1]_Prototype_HauHP.rar" beforeDir="false" afterPath="$PROJECT_DIR$/../[C0321G1]_Prototype_HauHP.rar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final-test-sprint1/final-test-sprint1-front-end/final-test-sprint/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/../final-test-sprint1/final-test-sprint1-front-end/final-test-sprint/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final-test-sprint1/final-test-sprint1-front-end/final-test-sprint/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../final-test-sprint1/final-test-sprint1-front-end/final-test-sprint/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final-test-sprint1/final-test-sprint1-front-end/final-test-sprint/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../final-test-sprint1/final-test-sprint1-front-end/final-test-sprint/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final-test-sprint1/final-test-sprint1-front-end/final-test-sprint/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../final-test-sprint1/final-test-sprint1-front-end/final-test-sprint/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/back end/c0321g1_gaming_backend/src/main/java/c0321g1_gaming/controller/services/ServicesRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project-sprint1/back end/c0321g1_gaming_backend/src/main/java/c0321g1_gaming/controller/services/ServicesRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/front end sprint 1/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../project-sprint1/front end/front end sprint 1/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/front end sprint 1/src/app/module/customer/list-customer/list-customer.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../project-sprint1/front end/front end sprint 1/src/app/module/customer/list-customer/list-customer.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/front end sprint 1/src/app/module/employee/employee-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../project-sprint1/front end/front end sprint 1/src/app/module/employee/employee-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/front end sprint 1/src/app/module/employee/list-employee/list-employee.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../project-sprint1/front end/front end sprint 1/src/app/module/employee/list-employee/list-employee.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/front end sprint 1/src/app/module/game/game-detail/game-detail.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../project-sprint1/front end/front end sprint 1/src/app/module/game/game-detail/game-detail.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/front end sprint 1/src/app/module/game/game-list/game-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../project-sprint1/front end/front end sprint 1/src/app/module/game/game-list/game-list.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/front end sprint 1/src/app/module/game/game-trailer/game-trailer.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../project-sprint1/front end/front end sprint 1/src/app/module/game/game-trailer/game-trailer.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/front end sprint 1/src/app/module/message/chat-room/chat-room.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../project-sprint1/front end/front end sprint 1/src/app/module/message/chat-room/chat-room.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/front end sprint 1/src/app/module/order-detail/order-detail/order-detail.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../project-sprint1/front end/front end sprint 1/src/app/module/order-detail/order-detail/order-detail.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/front end sprint 1/src/app/module/order-detail/order-detail/order-detail.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../project-sprint1/front end/front end sprint 1/src/app/module/order-detail/order-detail/order-detail.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/front end sprint 1/src/app/module/order/confirm-paypal/confirm-paypal.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../project-sprint1/front end/front end sprint 1/src/app/module/order/confirm-paypal/confirm-paypal.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/front end sprint 1/src/app/module/order/order-list-customer/order-list-customer.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../project-sprint1/front end/front end sprint 1/src/app/module/order/order-list-customer/order-list-customer.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/front end sprint 1/src/app/module/order/order-list-customer/order-list-customer.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../project-sprint1/front end/front end sprint 1/src/app/module/order/order-list-customer/order-list-customer.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/front end sprint 1/src/app/module/order/order-payment/order-payment.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../project-sprint1/front end/front end sprint 1/src/app/module/order/order-payment/order-payment.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/front end sprint 1/src/app/service/service/service.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../project-sprint1/front end/front end sprint 1/src/app/service/service/service.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/layout/footer/footer.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/layout/footer/footer.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/layout/footer/footer.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/layout/footer/footer.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/layout/header/header.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/layout/header/header.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/layout/header/header.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/layout/header/header.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/layout/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/model/account/account-computer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/model/account/account.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/model/account/role.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/model/address/address.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/model/address/commune.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/model/address/district.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/model/address/province.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/model/category/category.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/model/computer/computer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/model/computer/manufacturer-computer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/model/computer/status-computer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/model/computer/type-computer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/model/customer/customer-status.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/model/customer/customer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/model/customer/gender.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/model/dto/CusDTO.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/model/dto/customerdto.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/model/employee/employee.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/model/employee/position.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/model/game/game-type.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/model/game/game.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/model/order-detail/order-detail.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/model/order-detail/order-dto/order-dto.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/model/order-detail/order.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/model/paypal/PayPalLink.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/model/service/services.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/model/service/unit.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/model/statistic/input-statistic.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/model/statistic/statistic-by-account.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/model/statistic/statistic-by-computer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/model/statistic/statistic-by-month.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/account/account-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/account/account.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/account/auth-mod.guard.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/account/auth-usad.guard.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/account/auth-user.guard.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/account/auth.guard.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/account/helpers/auth.interceptor.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/account/login/login.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/account/login/login.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/account/login/login.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/account/login/login.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/client/client-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/client/client.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/client/guest-homepage/guest-homepage.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/client/guest-homepage/guest-homepage.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/client/guest-homepage/guest-homepage.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/client/guest-homepage/guest-homepage.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/computer/computer-delete/computer-delete.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/computer/computer-delete/computer-delete.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/computer/computer-delete/computer-delete.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/computer/computer-delete/computer-delete.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/computer/computer-list-delete/computer-list-delete.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/computer/computer-list-delete/computer-list-delete.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/computer/computer-list-delete/computer-list-delete.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/computer/computer-list-delete/computer-list-delete.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/computer/computer-list/computer-list.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/computer/computer-list/computer-list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/computer/computer-list/computer-list.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/computer/computer-list/computer-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/computer/computer-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/computer/computer.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/computer/create-computer/create-computer.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/computer/create-computer/create-computer.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/computer/create-computer/create-computer.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/computer/edit-computer/edit-computer.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/computer/edit-computer/edit-computer.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/computer/edit-computer/edit-computer.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/customer/change-password/change-password.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/customer/change-password/change-password.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/customer/change-password/change-password.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/customer/change-password/change-password.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/customer/common/validateDate.validator.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/customer/create-customer/create-customer.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/customer/create-customer/create-customer.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/customer/create-customer/create-customer.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/customer/create-customer/create-customer.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/customer/create-customer/text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/customer/customer-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/customer/customer-sign-up/customer-sign-up.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/customer/customer-sign-up/customer-sign-up.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/customer/customer-sign-up/customer-sign-up.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/customer/customer.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/customer/edit-customer/edit-customer.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/customer/edit-customer/edit-customer.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/customer/edit-customer/edit-customer.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/customer/edit-customer/edit-customer.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/customer/list-customer/list-customer.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/customer/list-customer/list-customer.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/customer/list-customer/list-customer.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/customer/list-customer/list-customer.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/customer/showinfo-customer/showinfo-customer.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/customer/showinfo-customer/showinfo-customer.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/customer/showinfo-customer/showinfo-customer.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/employee/commons/validatorDate.validator.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/employee/create-employee/create-employee.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/employee/create-employee/create-employee.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/employee/create-employee/create-employee.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/employee/create-employee/create-employee.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/employee/delete-employee/delete-employee.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/employee/delete-employee/delete-employee.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/employee/delete-employee/delete-employee.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/employee/delete-employee/delete-employee.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/employee/edit-employee/edit-employee.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/employee/edit-employee/edit-employee.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/employee/edit-employee/edit-employee.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/employee/edit-employee/edit-employee.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/employee/employee-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/employee/employee.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/employee/list-employee/list-employee.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/employee/list-employee/list-employee.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/employee/list-employee/list-employee.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/employee/list-employee/list-employee.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/game/game-create/game-create.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/game/game-create/game-create.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/game/game-create/game-create.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/game/game-create/game-create.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/game/game-delete-dialog/game-delete-dialog.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/game/game-delete-dialog/game-delete-dialog.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/game/game-delete-dialog/game-delete-dialog.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/game/game-delete-dialog/game-delete-dialog.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/game/game-detail/game-detail.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/game/game-detail/game-detail.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/game/game-detail/game-detail.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/game/game-detail/game-detail.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/game/game-edit/game-edit.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/game/game-edit/game-edit.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/game/game-edit/game-edit.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/game/game-edit/game-edit.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/game/game-list/game-list.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/game/game-list/game-list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/game/game-list/game-list.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/game/game-list/game-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/game/game-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/game/game-trailer/game-trailer.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/game/game-trailer/game-trailer.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/game/game-trailer/game-trailer.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/game/game-trailer/game-trailer.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/game/game.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/message/chat-room/chat-room.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/message/chat-room/chat-room.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/message/chat-room/chat-room.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/message/join-chat/join-chat.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/message/join-chat/join-chat.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/message/join-chat/join-chat.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/message/message-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/message/message.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/message/room-list/room-list.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/message/room-list/room-list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/message/room-list/room-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/order-detail/order-detail-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/order-detail/order-detail.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/order-detail/order-detail/order-detail.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/order-detail/order-detail/order-detail.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/order-detail/order-detail/order-detail.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/order/confirm-paypal/confirm-paypal.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/order/confirm-paypal/confirm-paypal.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/order/confirm-paypal/confirm-paypal.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/order/order-choose-payment/order-choose-payment.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/order/order-choose-payment/order-choose-payment.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/order/order-choose-payment/order-choose-payment.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/order/order-detail-list/order-detail-list.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/order/order-detail-list/order-detail-list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/order/order-detail-list/order-detail-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/order/order-list-customer/order-list-customer.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/order/order-list-customer/order-list-customer.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/order/order-list-customer/order-list-customer.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/order/order-list/order-list.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/order/order-list/order-list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/order/order-list/order-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/order/order-payment/order-payment.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/order/order-payment/order-payment.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/order/order-payment/order-payment.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/order/order-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/order/order.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/service/delete-services/delete-services.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/service/delete-services/delete-services.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/service/delete-services/delete-services.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/service/delete-services/delete-services.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/service/drective-service.directive.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/service/drective-service.directive.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/service/service-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/service/service.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/service/services-create/services-create.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/service/services-create/services-create.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/service/services-create/services-create.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/service/services-create/services-create.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/service/services-edit/services-edit.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/service/services-edit/services-edit.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/service/services-edit/services-edit.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/service/services-edit/services-edit.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/service/services-list/services-list.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/service/services-list/services-list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/service/services-list/services-list.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/service/services-list/services-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/statistic/statistic-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/statistic/statistic.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/statistic/statistic/statistic.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/statistic/statistic/statistic.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/statistic/statistic/statistic.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/module/statistic/statistic/statistic.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/service/account/account.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/service/account/account.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/service/account/auth.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/service/account/auth.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/service/account/token-storage.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/service/account/token-storage.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/service/address/address.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/service/address/address.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/service/category/category.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/service/category/category.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/service/computer/computer.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/service/computer/computer.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/service/customer/customer.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/service/customer/customer.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/service/employee/employee.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/service/employee/employee.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/service/game/game.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/service/game/game.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/service/game/gameType/game-type.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/service/gender/gender.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/service/gender/gender.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/service/order-detail/order-detail.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/service/order-detail/order-detail.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/service/order/order.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/service/order/until.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/service/paypal/payment.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/service/service/service.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/service/service/service.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/service/statistic/statistic.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/app/service/statistic/statistic.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/assets/image/anh-lmht-31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/assets/image/anh_bg_list.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/assets/image/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/assets/image/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/assets/image/bg5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/assets/image/carosel1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/assets/image/carosel2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/assets/image/carosel3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/assets/image/delete.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/assets/image/hinh-nen-da-dang-nhap.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/assets/image/logo-title.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/assets/image/logoFooter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/assets/image/logoNavbar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/assets/image/logoText.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/assets/image/logoc03n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/assets/image/logoc03nt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/assets/image/medal1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/assets/image/medal2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/assets/image/medal3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/assets/image/spin.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project-sprint1/front end/src/test.ts" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1yo0EUocdGMHsX45nGmJrUQ69Ft" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\C0321G1_HuynhPhuocHau_Module6\[C0321G1]Prototype_HauHP" />
+      <recent name="D:\C0321G1_HuynhPhuocHau_Module6\[C0321G1]Prototype_HauHP\bootstrap4\css" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4838b57-046e-4e4a-8b60-2dc42425a3b3" name="Default Changelist" comment="" />
+      <created>1632902521273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632902521273</updated>
+      <workItem from="1632902523305" duration="6021000" />
+      <workItem from="1632933954052" duration="1342000" />
+      <workItem from="1632964668164" duration="8876000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="674" y="189" key="FileChooserDialogImpl" timestamp="1632971724865">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="674" y="189" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1632971724865" />
+  </component>
+</project>
